@@ -1,5 +1,6 @@
 * Capstone Project Jaringan Syaraf Tiruan
 * Judul: Prediksi Curah Hujan Harian Menggunakan Long Short-Term Memory (LSTM)
+  
 👥 Anggota:
 
 2110005/Kelvin Wisam Syahputra
