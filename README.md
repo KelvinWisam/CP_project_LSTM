@@ -7,10 +7,15 @@
 Capstone Project ini bertujuan untuk memprediksi curah hujan harian menggunakan Long Short-Term Memory (LSTM). Proyek ini memanfaatkan data time series cuaca untuk mengidentifikasi pola historis dan memberikan prediksi yang akurat terhadap curah hujan di masa depan.
 
 🛠️ Metode yang Digunakan
+
 📥 Pengumpulan Data: Dataset curah hujan diperoleh dari Kaggle dan mencakup berbagai parameter cuaca seperti suhu, kelembaban, dan tekanan udara.
+
 🧹 Pemrosesan Data: Data diolah dan dinormalisasi menggunakan MinMaxScaler untuk memastikan bahwa model LSTM dapat belajar secara efisien.
+
 🧠 Implementasi Model: Menggunakan model LSTM dengan beberapa lapisan untuk mempelajari pola jangka pendek dan jangka panjang dari data curah hujan.
+
 📊 Evaluasi Model: Menilai kinerja model berdasarkan metrik Mean Squared Error (MSE) dan Mean Absolute Error (MAE) untuk memastikan akurasi prediksi.
+
 🎯 Tujuan Akhir
 Memberikan prediksi curah hujan yang akurat untuk membantu perencanaan kegiatan yang bergantung pada kondisi cuaca. Mendukung penelitian di bidang prediksi cuaca dengan implementasi teknologi deep learning. Menawarkan solusi berbasis data untuk mitigasi risiko yang disebabkan oleh curah hujan ekstrem.
 
